@@ -18,5 +18,5 @@ func changeOrderStatus(status OrderStatus) {
 }
 
 func main() {
-	changeOrderStatus()
+	changeOrderStatus(Recevied)
 }
